@@ -12,3 +12,9 @@ body
     background-size: cover;
     text-align: center;
 }
+
+.container-fluid img{
+    position: relative;
+    top: 280px;
+    translate : -70% 105%;
+}
