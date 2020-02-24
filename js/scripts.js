@@ -16,14 +16,14 @@ $(document).ready(function (){
 
      
 });
-//    $(".items .item").hover(function (){
-//             // console.log('hits fn')
-//             $(this).find("p#description").css({"display":"flex", "transition":".3s"});
-//             $(this).find("img").hide();
-//         }, function(){
-//             $(this).find("p#description").hide();
-//             $(this).find("img").show();
-//         });
+   $(".items .item").hover(function (){
+            // console.log('hits fn')
+            $(this).find("p#description").css({"display":"flex", "transition":".3s"});
+            $(this).find("img").hide();
+        }, function(){
+            $(this).find("p#description").hide();
+            $(this).find("img").show();
+        });
 
 
 //         $("#portfolio div.col-md-3").hover(function(){
