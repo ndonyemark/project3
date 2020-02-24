@@ -101,3 +101,7 @@ body
     justify-content: center;
     align-items: center;
 }
+
+.footer .item {
+    margin-right: 15px;
+}
