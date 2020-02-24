@@ -86,3 +86,10 @@ body
     background-position: center;
     background-repeat: no-repeat;
 }
+
+.jumbotron {
+    display: none;
+    color: white;
+    height: 202px;
+    background: rgba(0, 0, 0, .4);
+}
