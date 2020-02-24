@@ -49,3 +49,7 @@ body
     margin: 30px;
     width: 100%;
 }
+
+.what-we-do .items #description {
+    display: none;
+}
