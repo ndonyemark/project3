@@ -3,7 +3,7 @@ $(document).ready(function (){
     $('#form-input form').submit(function(event){
         var username = $('input#name').val();
         var useremail = $('input#email').val();
-        var usermessage = $('input#message').val();
+        var usermessage = $('textarea#message').val();
         // $('.name').text('username');
         // $('.email').text('useremail');
         // $('.message').text('usermessage')
