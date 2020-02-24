@@ -18,3 +18,10 @@ body
     top: 280px;
     translate : -70% 105%;
 }
+.container-fluid .heading   {
+    position: relative;
+    top: 330px;
+    translate: 80% 430px;
+    color: white;
+    margin-bottom: 100px;
+}
