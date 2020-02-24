@@ -26,9 +26,9 @@ $(document).ready(function (){
         });
 
 
-//         $("#portfolio div.col-md-3").hover(function(){
-//             $(this).find(".desc").css("display","flex");
-//         },function(){
-//             $(this).find(".desc").hide();
-//         })
+        $("#portfolio div.col-md-3").hover(function(){
+            $(this).find(".desc").css("display","flex");
+        },function(){
+            $(this).find(".desc").hide();
+        });
 });
